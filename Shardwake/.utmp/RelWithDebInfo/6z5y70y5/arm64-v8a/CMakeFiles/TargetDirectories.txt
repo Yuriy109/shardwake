@@ -1,0 +1,5 @@
+/Users/yuriikarapetiants/Desktop/Shardwake/Shardwake/.utmp/RelWithDebInfo/6z5y70y5/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/yuriikarapetiants/Desktop/Shardwake/Shardwake/.utmp/RelWithDebInfo/6z5y70y5/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/yuriikarapetiants/Desktop/Shardwake/Shardwake/.utmp/RelWithDebInfo/6z5y70y5/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/yuriikarapetiants/Desktop/Shardwake/Shardwake/.utmp/RelWithDebInfo/6z5y70y5/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/yuriikarapetiants/Desktop/Shardwake/Shardwake/.utmp/RelWithDebInfo/6z5y70y5/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

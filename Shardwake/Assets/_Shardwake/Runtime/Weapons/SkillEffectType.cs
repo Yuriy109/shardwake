@@ -1,0 +1,33 @@
+namespace Shardwake.Weapons
+{
+    public enum SkillEffectType
+    {
+        FrontalHit,
+        AreaHit,
+        DashHit,
+        GroundSlam,
+        SelfBuff,
+        Execute,
+        Pull,
+        Counter,
+        GuardZone,
+        ShieldPulse,
+        PoisonHit,
+        Smoke,
+        MultiHit,
+        RangedHit,
+        Knockback,
+        Root,
+        Projectile,
+        Trap,
+        Backstep,
+        Blink,
+        Heal,
+        Shield,
+        Cleanse,
+        Summon,
+        Curse,
+        Sustain,
+        CorpseExplosion
+    }
+}

@@ -1,0 +1,1 @@
+/Users/yuriikarapetiants/Desktop/Shardwake/Shardwake/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6z5y70y5/obj/arm64-v8a
